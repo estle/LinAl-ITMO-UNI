@@ -1,8 +1,8 @@
-PWD /Users/ilyaa/Desktop/ЛинАл/LaTex
+PWD /Users/ilyaa/Desktop/ЛинАл/Программа Кл П
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/ilyaa/Desktop/ЛинАл/LaTex/Paper.tex
+INPUT /Users/ilyaa/Desktop/ЛинАл/Программа Кл П/Paper.tex
 OUTPUT Paper.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
