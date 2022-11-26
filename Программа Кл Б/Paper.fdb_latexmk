@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1669388366 "/Users/ilyaa/Desktop/ЛинАл/Программа Кл Б/Paper.tex" "Paper.pdf" "Paper" 1669388369
-  "/Users/ilyaa/Desktop/ЛинАл/Программа Кл Б/Paper.tex" 1669388366 33631 1cddf870a42cc00bb038088ec238003e ""
+["pdflatex"] 1669453954 "/Users/ilyaa/Desktop/ЛинАл/Программа Кл Б/Paper.tex" "Paper.pdf" "Paper" 1669453955
+  "/Users/ilyaa/Desktop/ЛинАл/Программа Кл Б/Paper.tex" 1669453955 34418 e551390268af8294480e6c111f104138 ""
   "/Users/ilyaa/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1665493480 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/Users/ilyaa/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1665254839 3304 6a543c07045572737981351171e0505e ""
   "/Users/ilyaa/Library/texlive/2022/texmf-var/fonts/tfm/lh/lh-t2a/lacc1000.tfm" 1668857437 3148 304b6cf84fcf77701cb31c2e3e8c6709 ""
@@ -116,10 +116,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665254667 2826438 7f61c5cdeb7b49e1717bf135e36e0f7b ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Paper.aux" 1669388369 24237 1aa1efe191b77cce6e898b89b293ae8b "pdflatex"
-  "Paper.out" 1669388369 16068 c44c4f02f294fadd3c58cb363b9c9aa6 "pdflatex"
-  "Paper.tex" 1669388366 33631 1cddf870a42cc00bb038088ec238003e ""
-  "Paper.toc" 1669388369 22948 838f8a1a0db601a2e4a5da0a93bb3ea8 "pdflatex"
+  "Paper.aux" 1669453955 24237 1aa1efe191b77cce6e898b89b293ae8b "pdflatex"
+  "Paper.out" 1669453955 16068 c44c4f02f294fadd3c58cb363b9c9aa6 "pdflatex"
+  "Paper.tex" 1669453955 34418 e551390268af8294480e6c111f104138 ""
+  "Paper.toc" 1669453955 22948 838f8a1a0db601a2e4a5da0a93bb3ea8 "pdflatex"
   "fig//gr62.jpeg" 1669295727 31662 87c67fd9b0f51787728841436f98e942 ""
   (generated)
   "Paper.aux"
